@@ -1,0 +1,14 @@
+name: "BeeDC R Package"
+navbar:
+  title: "BeeDC"
+  type: inverse
+  left:
+    - text: "Tutorial"
+      icon: fa-beer
+      href: A-globally-synthesized-and-flagged-bee-occurrence-dataset-and-cleaning-workflow-5.8.23.html
+    - text: "About"
+      icon: fa-info
+      href: about.html
+  right:
+    - icon: fa-question fa-lg
+      href: https://www.biorxiv.org/content/10.1101/2023.06.30.547152v1
