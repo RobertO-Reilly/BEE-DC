@@ -1,9 +1,0 @@
-Description,Test_name,Records_flagged,perc_number_records(*)
-Records with empty scientific name,.scientificName_empty,1394,0.91
-Records with empty coordinates,.coordinates_empty,19054,12.44
-Records with coordinates out-of-range,.coordinates_outOfRange,0,0
-Records from a doubtful source,.basisOfRecords_notStandard,298,0.19
-Records outside one or multiple reference countries,.coordinates_country_inconsistent,97,0.06
-Summary of all tests,.summary,20676,13.5
-,,,
-"(*) calculated in relation to total number of records, i.e. 153136 records",,,
