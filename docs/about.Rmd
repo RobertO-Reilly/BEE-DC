@@ -1,0 +1,20 @@
+---
+title: "About This Website"
+
+output:
+   rmdformats::readthedown:
+     code_folding: show
+     Float_TOC: True
+     TOC_depth: 2
+     gallery: yes
+     highlight: tango
+     lightbox: yes
+     self_contained: yes
+     thumbnails: yes
+---
+
+Hello!
+
+This R script was written by James Dorey, starting on the 2nd of May 2022. The script intends to clean occurrence data from several sources using a combination of custom functions and functions from the “bdc” package. The script was then adapted to RMD and HTML website by Robert O'Reilly.
+
+For queries, please feel free to contact James Dorey at jbdorey@me.com
